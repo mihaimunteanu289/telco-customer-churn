@@ -1,0 +1,16 @@
+variables,VIF
+total_day_charge,126230991.2797153
+total_eve_charge,37220428.8498604
+total_night_minutes,10646040.485603912
+total_intl_charge,1002514.8078847578
+total_day_calls,22.371512538044378
+total_night_calls,21.150024159683383
+total_eve_calls,19.352391826867922
+total_night_charge,12.992188935931873
+total_eve_minutes,12.857881305624542
+total_intl_minutes,11.870907695362135
+total_day_minutes,10.194163174036266
+account_length,6.797267303471122
+total_intl_calls,4.089716614784013
+number_customer_service_calls,2.4062816570843624
+number_vmail_messages,1.3334725648867318
