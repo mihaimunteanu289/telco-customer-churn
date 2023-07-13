@@ -19,6 +19,7 @@
 <li><code>5. categorical_feature_selection.ipynb</code>: In this notebook, categorical feature selection methods are applied to determine the significant features for churn prediction.</li>
 <li><code>6. statistical_feature_selection.ipynb</code>: This notebook explores statistical feature selection techniques to choose relevant features for churn prediction.</li>
 <li><code>7. boruta_feature_selection.ipynb</code>: This notebook utilizes the Boruta algorithm for feature selection to identify the most influential features for churn prediction.</li>
+<li><code>8. hypertuning</code>: In this phase, we employ the Optuna library for hyperparameter optimization.</li>
 <li><code>README.md</code>: The file that provides an overview of the project and the repository.</li>
 </ol>
 
